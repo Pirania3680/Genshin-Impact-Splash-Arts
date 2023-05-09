@@ -1,2 +1,11 @@
-# Genshin-Impact-Splash-Arts
-This repository contains useful image files from Genshin Impact. I haven't come across anything like this before, and I needed these files for my discord bot. There are: splash art, x10 wish art (made by me), inventory icon (made by me). All characters and weapons up to version 3.6 are here.
+# Gesnhin Impact Splash Arts
+• All characters and weapons to the version 3.6
+• All images resolution: 1920x1080
+• Not edited, UID and Skip button are visible in the picture
+
+# Gesnhin Impact Inventory icons
+• All characters and weapons to the version 3.6
+• All images resolution: 112x136
+• Frame done by me, font is HYWenHei-85W (Genshin Font)
+
+Genshin Impact, game content and materials are trademarks and copyrights of HoYoverse.
