@@ -12,6 +12,4 @@
 
 • Frame done by me, font is HYWenHei-85W (Genshin Font)
 
-
-
-Genshin Impact, game content and materials are trademarks and copyrights of HoYoverse.
+# Genshin Impact, game content and materials are trademarks and copyrights of HoYoverse.
